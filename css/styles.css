@@ -276,6 +276,11 @@ display: flex;
 gap: 24px;
 }
 
+.sectionthree-title,
+.sectionthree-text{
+    text-align: left;
+}
+
 .listthree-box{
     border-bottom: 1px solid #e7e9fc;
     border-left: 1px solid #e7e9fc;
